@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there I'm Roshan Adhikari</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-<img align="right" alt="Coding" width="420px" src="https://media.tenor.com/V_PAZ7bvaXsAAAAC/death-note-lawliet.gif">
+<img align="right" alt="Coding" width="420px" src="https://i.pinimg.com/originals/d6/3e/9b/d63e9b62702a9c8ff079c5a289a2ec19.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoorabbits69&label=Profile%20views&color=0e75b6&style=flat" alt="snoorabbits69" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
