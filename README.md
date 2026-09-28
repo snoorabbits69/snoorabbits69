@@ -66,7 +66,8 @@
 ║ React                │ Next.js              │ Node.js              ║
 ║ Express              │ NestJS               │ Django               ║
 ║ FastAPI              │ Laravel              │ Flutter              ║
-║ Electron             │ Ratatui              │                      ║
+║ Electron             │ Ratatui              │ ASP.NET Web API      ║
+║ EF Core              │ Zustand              │ React Redux          ║
 ╚════════════════════════════════════════════════════════════════════╝
 </pre>
 </div>
